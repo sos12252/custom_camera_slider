@@ -1,0 +1,7 @@
+#Tue Jun 23 17:23:26 KST 2020
+base.0=/Users/mac/Documents/androidstudio/camera/Android-Custom-Camera-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/mac/Documents/androidstudio/camera/Android-Custom-Camera-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

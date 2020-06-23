@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Custom Camera</string>
+    <string name="guide_none">None</string>
+    <string name="guide_momdaughter">momdaughter</string>
+    <string name="filter_tile_mosaic" />
+    <string name="filter_chromatic_aberration" />
+</resources>

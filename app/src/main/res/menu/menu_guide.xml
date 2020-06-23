@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter_original"
+        android:title="@string/guide_none"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/momdaughter"
+        android:title="@string/guide_momdaughter"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter_tile_mosaic"
+        android:title="@string/filter_tile_mosaic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter_chromatic_aberration"
+        android:title="@string/filter_chromatic_aberration"
+        app:showAsAction="never" />
+
+
+
+
+</menu>
